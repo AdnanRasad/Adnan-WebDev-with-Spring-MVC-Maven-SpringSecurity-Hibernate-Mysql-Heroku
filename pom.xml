@@ -23,6 +23,8 @@
 	</properties>
 
 	<dependencies>
+	
+	
 
 		<!-- Spring MVC support -->
 		<dependency>
@@ -71,6 +73,14 @@
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
+
+<dependency>
+			<groupId>com.github.jsimone</groupId>
+			<artifactId>webapp-runner</artifactId>
+			<version>8.5.11.3</version>
+			<scope>provided</scope>
+		</dependency>
+	
 
 		<dependency>
 			<groupId>junit</groupId>
@@ -132,12 +142,6 @@
 
 
 
-<dependency>
-			<groupId>com.github.jsimone</groupId>
-			<artifactId>webapp-runner</artifactId>
-			<version>8.5.11.3</version>
-			<scope>provided</scope>
-		</dependency>
 
 	</dependencies>
 	
@@ -150,7 +154,16 @@
 	
 		<pluginManagement>
 			<plugins>
-			
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
+				<configuration>
+					<source>${1.7}</source>
+					<target>${1.7}</target>
+
+				</configuration>
+			</plugin>
 			<plugin>
 					<!-- Add Maven coordinates (GAV) for: maven-war-plugin -->
 				    <groupId>org.apache.maven.plugins</groupId>
