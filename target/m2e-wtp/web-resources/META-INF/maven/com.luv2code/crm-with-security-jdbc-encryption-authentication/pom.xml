@@ -128,7 +128,20 @@
 		    <version>2.3.0</version>
 		</dependency>
 
+
+
+
+
+<dependency>
+			<groupId>com.github.jsimone</groupId>
+			<artifactId>webapp-runner</artifactId>
+			<version>8.5.11.3</version>
+			<scope>provided</scope>
+		</dependency>
+
 	</dependencies>
+	
+	
 
 	<!-- Add support for Maven WAR Plugin -->
 
@@ -145,11 +158,9 @@
 				    <version>3.2.0</version>					
 				</plugin>	
 				
-				<plugin>
-  <groupId>com.github.jsimone</groupId>
-  <artifactId>webapp-runner-main</artifactId>
-  <version>${webapp-runner.version</version>
-</plugin>
+				
+				
+				
 				
 				<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
