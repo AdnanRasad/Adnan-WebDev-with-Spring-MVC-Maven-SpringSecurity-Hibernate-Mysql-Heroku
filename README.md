@@ -7,6 +7,8 @@ Website Deployed to Heroku- with Heroku-Eclipse Plugin.-->See Pom.XML
 
 
 Backend-->
+
+
 Software Architecture-->MVC (Model View Controller).
 
 Security Framework-->Spring Security (de-facto standard).
