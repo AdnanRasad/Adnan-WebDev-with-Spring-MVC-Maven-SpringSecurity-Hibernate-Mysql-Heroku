@@ -17,9 +17,16 @@ Security Framework-->Spring Security (de-facto standard).
 
 
 Database-->Hosted on https://www.freemysqlhosting.net
+
+
 --> MySql
+
+
 -->Hibernate
+
+
 -->JDBC
+
 
 Front End--> JSTL,JSP
 
