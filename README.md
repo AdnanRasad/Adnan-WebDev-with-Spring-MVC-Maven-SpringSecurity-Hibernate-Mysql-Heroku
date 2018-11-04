@@ -11,7 +11,10 @@ Backend-->
 
 Software Architecture-->MVC (Model View Controller).
 
+
+
 Security Framework-->Spring Security (de-facto standard).
+
 
 Database-->Hosted on https://www.freemysqlhosting.net
 --> MySql
