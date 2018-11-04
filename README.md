@@ -1,4 +1,4 @@
-# Adnan-WebDev-with-Spring-MVC-Maven-SpringSecurity-Hibernate-Mysql-Heroku
+# WebDev-with-Spring-MVC-Maven-SpringSecurity-Hibernate-Mysql-Heroku
 Personal Portfolio website-Web development with Spring, Spring MVC, Spring Security, Maven, Hibernate, Mysql, Heroku.
 
 
