@@ -1,4 +1,4 @@
-# WebDev-with-Spring-MVC-Maven-SpringSecurity-Hibernate-Mysql-Heroku
+# WebDev-with-Spring-MVC-Maven-SpringSecurity-Hibernate-Mysql-(Heroku-Eclipse) Plugin
 Personal Portfolio website-Web development with Spring, Spring MVC, Spring Security, Maven, Hibernate, Mysql, Heroku.
 
 
